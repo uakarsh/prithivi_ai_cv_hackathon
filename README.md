@@ -1,4 +1,4 @@
-## About the Project:
+# About the Project:
 
 ## PROBLEM STATEMENT:
 
@@ -7,7 +7,7 @@
 
 
 
-## About the files:
+## About the files: -
 
 1. Documentation.pdf : Contains the discription and our approach for solving the problem
 2. Final_DefectType_GoodBoys.csv: Contains the label whether an image is defective or not (we only took 250 images, because of the memory constraints)
@@ -17,7 +17,7 @@
 
 ## Models used:
 
-- The model used are:
+* The model used are:
 1. ResNet 18
 2. ResNet 50
 
